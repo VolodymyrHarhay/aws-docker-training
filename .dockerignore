@@ -1,0 +1,12 @@
+# Ignore development-related files
+node_modules
+npm-debug.log
+.elasticbeanstalk
+
+# Ignore other unnecessary files
+.git
+temp
+cache
+logs
+.idea
+.vscode
